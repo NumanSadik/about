@@ -7,7 +7,10 @@ A personal page that contains my opinions on certain things, the things that i c
 
 Omori: A psychologilac horror game that i am glad that i have played, it made me to feel certain emotions that i was lacking of.
 
-Hollow Knight\n
-Celeste\n
-Hello Charlotte\n
-Cuphead\n</h2>
+Hollow Knight
+  
+Celeste
+  
+Hello Charlotte
+  
+Cuphead</h2>
